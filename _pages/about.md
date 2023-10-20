@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-👨🏻‍💻 I'm an MSc graduate from TDU, Bengaluru.
+👨🏽‍🔬 I'm an aspiring Wildlife Biologist and Conservationist.
 
 🫎 Passionate about mammal behaviour and habitat ecology.
 
