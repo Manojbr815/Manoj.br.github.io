@@ -18,7 +18,7 @@ redirect_from:
 
 ## Selected Experience
 
-I'm an MSc graduate in Environmental Studies and Conservation Practice from Karnataka, India.
+I'm an MSc graduate in **Environmental Studies** and **Conservation Practice** from Karnataka, India.
 
 I possess skills in geospatial analysis, ecological knowledge and qualitative research methods.
 
