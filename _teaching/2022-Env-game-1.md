@@ -8,7 +8,7 @@ date: 2022-11-23
 location: "Bengaluru, India"
 ---
 
-Awareness and curiosity building workshop for rural school kids. 
+Environmental awareness and curiosity building workshop for rural school kids. 
 
 Building awareness
 ======
