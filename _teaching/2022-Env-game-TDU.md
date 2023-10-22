@@ -13,7 +13,7 @@ Environmental awareness and curiosity building workshop for rural school kids.
 Building awareness
 ======
 I assisted my professor in environmental teaching to rural school kids of Doddaballapura, Karnataka.
-It was a workshop to sensitize the school kids about primary elements of nature, assessment of different parameters of the atmosphere/air—the causes for these parameters to fe in an environment and so on.
+It was a workshop to sensitize the school kids about primary elements of nature, assessment of different parameters of the atmosphere/air—the causes for these parameters to change in an environment and so on.
 
 Environmental games
 ======
